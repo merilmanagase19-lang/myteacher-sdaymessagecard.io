@@ -10,7 +10,7 @@ When clicked, the card flips to reveal your message for your teacher! 💖
 
 
 🔗 **Try it here:**
-👉 [**View Live Project**](https://your-live-demo-link-here.com)
+👉 [**View Live Project**](https://github.com/merilmanagase19-lang/myteacher-sdaymessagecard.io)
 
 ## 💫 Project Preview
 
